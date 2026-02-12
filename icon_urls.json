@@ -1,0 +1,15 @@
+{
+  "add_images": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/image.svg",
+  "add_folder": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/folder-plus.svg",
+  "save_pdf": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/file-earmark-arrow-down.svg",
+  "remove": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/trash.svg",
+  "clear_list": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/x-circle.svg",
+  "move_up": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-up.svg",
+  "move_down": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-down.svg",
+  "rotate_ccw": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-counterclockwise.svg",
+  "rotate_cw": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-clockwise.svg",
+  "theme": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/sliders.svg",
+  "tab_page": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/file-earmark.svg",
+  "tab_quality": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/sliders.svg",
+  "tab_info": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/info-circle.svg"
+}
